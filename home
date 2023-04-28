@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="home.css">
+    <title>Home</title>
+</head>
+<body>
+    <h1>SHOEZIE</h1>
+    <nav class="nav">
+        <div class="new">
+            <button class="dropbtn">New Arrivals
+                <i class="down"></i>
+            </button>
+            <div class="new-content">
+                <a href="">HEELS</a>
+                <a href="">FLATS</a>
+                <a href="">BOOTS</a>
+                <a href="">SNEAKERS</a>
+            </div>
+        </div>
+        <!--<a id="new" class="left" href="">New Arrivals</a>-->
+        <a id="img" class="left" href="">Images</a>
+        <a id="design" class="left" href="">Design</a>
+        <a id="abt" class="left" href="">About us</a>
+        <a id="sign" class="right" href="signin.html" target="_blank">Sign in</a>
+        <a id="search" class="right" href="search.html"><img width="15" height="15" src="search.png">Search</a>
+        <a id="cart" class="right" href=""><img width="15" height="15" src="cart.png">Cart</a>
+    </nav>
+    
+    <p>
+        <!--<img width="300" height="300" src="file3.jpg" alt="loading">-->
+        <h2>BEING CHOOSIE ABOUT YOUR SHOES?</h2>
+        <h2>HERE YOU COME MY "SHOEZIE"</h2>
+        <h3><a href="">SHOP NOW</a></h3>
+    </p>
+    
+    
+    <div class="contact">
+    <h4>Reach us at</h4>
+    <a href=""><img width="20" height="20" src="instalogo.png"></a>
+    <a href=""><img width="20" height="20" src="wtsapplogo.png"></a>
+    <a href=""><img width="20" height="20" src="numberlogo.png"></a>
+    <a href=""><img width="20" height="20" src="maillogo.png"></a>
+    </div>
+    
+</body>
+</html>
